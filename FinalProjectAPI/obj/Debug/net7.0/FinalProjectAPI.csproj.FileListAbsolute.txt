@@ -1,0 +1,1113 @@
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\appsettings.json
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\libman.json
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.exe
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.deps.json
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.runtimeconfig.json
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.pdb
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\FluentValidation.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Humanizer.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\MediatR.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\System.CodeDom.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Application.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\DBContext.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Domian.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Dtos.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\InfraStructure.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Application.pdb
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\DBContext.pdb
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Domian.pdb
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\InfraStructure.pdb
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\bin\Debug\net7.0\Dtos.pdb
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.AssemblyReference.cache
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.AssemblyInfoInputs.cache
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.AssemblyInfo.cs
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.CoreCompileInputs.cache
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.FinalProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.FinalProjectAPI.props
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FinalProjectAPI.props
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FinalProjectAPI.props
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\scopedcss\bundle\FinalProjectAPI.styles.css
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.CopyComplete
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\refint\FinalProjectAPI.dll
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.pdb
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.genruntimeconfig.cache
+D:\ITI_FinalProject_V_2.5\FinalProjectAPI\obj\Debug\net7.0\ref\FinalProjectAPI.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\libman.json
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.exe
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.deps.json
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.runtimeconfig.json
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.pdb
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\MediatR.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Application.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\DBContext.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Domian.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Dtos.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\InfraStructure.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Application.pdb
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\DBContext.pdb
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Domian.pdb
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\InfraStructure.pdb
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\bin\Debug\net7.0\Dtos.pdb
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.FinalProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.FinalProjectAPI.props
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FinalProjectAPI.props
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FinalProjectAPI.props
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\scopedcss\bundle\FinalProjectAPI.styles.css
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.CopyComplete
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\refint\FinalProjectAPI.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.pdb
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.genruntimeconfig.cache
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\FinalProjectAPI\obj\Debug\net7.0\ref\FinalProjectAPI.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\appsettings.Development.json
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\appsettings.json
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\libman.json
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.exe
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.deps.json
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.runtimeconfig.json
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.pdb
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Azure.Core.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Azure.Identity.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\FluentValidation.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Humanizer.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\MediatR.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\MediatR.Contracts.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\System.CodeDom.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\System.Memory.Data.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Application.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\DBContext.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Domian.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Dtos.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\InfraStructure.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Application.pdb
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\DBContext.pdb
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Domian.pdb
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\InfraStructure.pdb
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\bin\Debug\net7.0\Dtos.pdb
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.AssemblyReference.cache
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.AssemblyInfoInputs.cache
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.AssemblyInfo.cs
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.CoreCompileInputs.cache
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.FinalProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.FinalProjectAPI.props
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FinalProjectAPI.props
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FinalProjectAPI.props
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.pack.json
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.build.json
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.development.json
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\scopedcss\bundle\FinalProjectAPI.styles.css
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.CopyComplete
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\refint\FinalProjectAPI.dll
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.pdb
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.genruntimeconfig.cache
+G:\FinalProjectAPIAndMVC\FinalProject\FinalProjectAPI\obj\Debug\net7.0\ref\FinalProjectAPI.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\appsettings.json
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\libman.json
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.exe
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.deps.json
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.runtimeconfig.json
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.pdb
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Azure.Core.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Azure.Identity.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FluentValidation.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Humanizer.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\log4net.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\MailKit.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\MediatR.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Build.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\MimeKit.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NETCore.MailKit.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Common.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.CodeDom.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Memory.Data.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Application.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\DBContext.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Domian.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Dtos.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\InfraStructure.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Application.pdb
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\DBContext.pdb
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Domian.pdb
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\InfraStructure.pdb
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Dtos.pdb
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.AssemblyReference.cache
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.AssemblyInfoInputs.cache
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.AssemblyInfo.cs
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.CoreCompileInputs.cache
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.FinalProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.FinalProjectAPI.props
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FinalProjectAPI.props
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FinalProjectAPI.props
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\scopedcss\bundle\FinalProjectAPI.styles.css
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.CopyComplete
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\refint\FinalProjectAPI.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.pdb
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.genruntimeconfig.cache
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\ref\FinalProjectAPI.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\libman.json
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.exe
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.deps.json
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.runtimeconfig.json
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.pdb
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\log4net.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\MailKit.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\MediatR.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\MimeKit.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NETCore.MailKit.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Application.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\DBContext.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Domian.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Dtos.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\InfraStructure.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Application.pdb
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\DBContext.pdb
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Domian.pdb
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\InfraStructure.pdb
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Dtos.pdb
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.FinalProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.FinalProjectAPI.props
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FinalProjectAPI.props
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FinalProjectAPI.props
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\scopedcss\bundle\FinalProjectAPI.styles.css
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\refint\FinalProjectAPI.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.pdb
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\ref\FinalProjectAPI.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.AssemblyReference.cache
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.AssemblyInfoInputs.cache
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.AssemblyInfo.cs
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\libman.json
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.exe
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.deps.json
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.runtimeconfig.json
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FinalProjectAPI.pdb
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\log4net.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\MailKit.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\MediatR.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\MimeKit.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NETCore.MailKit.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Application.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\DBContext.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Domian.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Dtos.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\InfraStructure.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Application.pdb
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\DBContext.pdb
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Domian.pdb
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\InfraStructure.pdb
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\bin\Debug\net7.0\Dtos.pdb
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.FinalProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.FinalProjectAPI.props
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FinalProjectAPI.props
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FinalProjectAPI.props
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\scopedcss\bundle\FinalProjectAPI.styles.css
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.csproj.CopyComplete
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\refint\FinalProjectAPI.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.pdb
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\FinalProjectAPI.genruntimeconfig.cache
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\FinalProjectAPI\obj\Debug\net7.0\ref\FinalProjectAPI.dll

@@ -1,0 +1,90 @@
+D:\ITI_FinalProject_V_2.5\Dtos\bin\Debug\net7.0\Dtos.deps.json
+D:\ITI_FinalProject_V_2.5\Dtos\bin\Debug\net7.0\Dtos.dll
+D:\ITI_FinalProject_V_2.5\Dtos\bin\Debug\net7.0\Dtos.pdb
+D:\ITI_FinalProject_V_2.5\Dtos\bin\Debug\net7.0\Domian.dll
+D:\ITI_FinalProject_V_2.5\Dtos\bin\Debug\net7.0\Domian.pdb
+D:\ITI_FinalProject_V_2.5\Dtos\obj\Debug\net7.0\Dtos.csproj.AssemblyReference.cache
+D:\ITI_FinalProject_V_2.5\Dtos\obj\Debug\net7.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_FinalProject_V_2.5\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfoInputs.cache
+D:\ITI_FinalProject_V_2.5\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfo.cs
+D:\ITI_FinalProject_V_2.5\Dtos\obj\Debug\net7.0\Dtos.csproj.CoreCompileInputs.cache
+D:\ITI_FinalProject_V_2.5\Dtos\obj\Debug\net7.0\Dtos.csproj.CopyComplete
+D:\ITI_FinalProject_V_2.5\Dtos\obj\Debug\net7.0\Dtos.dll
+D:\ITI_FinalProject_V_2.5\Dtos\obj\Debug\net7.0\refint\Dtos.dll
+D:\ITI_FinalProject_V_2.5\Dtos\obj\Debug\net7.0\Dtos.pdb
+D:\ITI_FinalProject_V_2.5\Dtos\obj\Debug\net7.0\ref\Dtos.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\Dtos\bin\Debug\net7.0\Dtos.deps.json
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\Dtos\bin\Debug\net7.0\Dtos.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\Dtos\bin\Debug\net7.0\Dtos.pdb
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\Dtos\bin\Debug\net7.0\Domian.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\Dtos\bin\Debug\net7.0\Domian.pdb
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\Dtos\obj\Debug\net7.0\Dtos.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\Dtos\obj\Debug\net7.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\Dtos\obj\Debug\net7.0\Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\Dtos\obj\Debug\net7.0\Dtos.csproj.CopyComplete
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\Dtos\obj\Debug\net7.0\Dtos.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\Dtos\obj\Debug\net7.0\refint\Dtos.dll
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\Dtos\obj\Debug\net7.0\Dtos.pdb
+C:\Users\Mohamed\Desktop\clonnne\New folder\EcommerceAPIAndMVC\Dtos\obj\Debug\net7.0\ref\Dtos.dll
+G:\FinalProjectAPIAndMVC\FinalProject\Dtos\bin\Debug\net7.0\Dtos.deps.json
+G:\FinalProjectAPIAndMVC\FinalProject\Dtos\bin\Debug\net7.0\Dtos.dll
+G:\FinalProjectAPIAndMVC\FinalProject\Dtos\bin\Debug\net7.0\Dtos.pdb
+G:\FinalProjectAPIAndMVC\FinalProject\Dtos\bin\Debug\net7.0\Domian.dll
+G:\FinalProjectAPIAndMVC\FinalProject\Dtos\bin\Debug\net7.0\Domian.pdb
+G:\FinalProjectAPIAndMVC\FinalProject\Dtos\obj\Debug\net7.0\Dtos.csproj.AssemblyReference.cache
+G:\FinalProjectAPIAndMVC\FinalProject\Dtos\obj\Debug\net7.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+G:\FinalProjectAPIAndMVC\FinalProject\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfoInputs.cache
+G:\FinalProjectAPIAndMVC\FinalProject\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfo.cs
+G:\FinalProjectAPIAndMVC\FinalProject\Dtos\obj\Debug\net7.0\Dtos.csproj.CoreCompileInputs.cache
+G:\FinalProjectAPIAndMVC\FinalProject\Dtos\obj\Debug\net7.0\Dtos.csproj.CopyComplete
+G:\FinalProjectAPIAndMVC\FinalProject\Dtos\obj\Debug\net7.0\Dtos.dll
+G:\FinalProjectAPIAndMVC\FinalProject\Dtos\obj\Debug\net7.0\refint\Dtos.dll
+G:\FinalProjectAPIAndMVC\FinalProject\Dtos\obj\Debug\net7.0\Dtos.pdb
+G:\FinalProjectAPIAndMVC\FinalProject\Dtos\obj\Debug\net7.0\ref\Dtos.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\bin\Debug\net7.0\Dtos.deps.json
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\bin\Debug\net7.0\Dtos.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\bin\Debug\net7.0\Dtos.pdb
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\bin\Debug\net7.0\Domian.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\bin\Debug\net7.0\Domian.pdb
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.csproj.AssemblyReference.cache
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfoInputs.cache
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfo.cs
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.csproj.CoreCompileInputs.cache
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.csproj.CopyComplete
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\refint\Dtos.dll
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.pdb
+D:\mizeproject\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\ref\Dtos.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\bin\Debug\net7.0\Dtos.deps.json
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\bin\Debug\net7.0\Dtos.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\bin\Debug\net7.0\Dtos.pdb
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\bin\Debug\net7.0\Domian.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\bin\Debug\net7.0\Domian.pdb
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\refint\Dtos.dll
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.pdb
+C:\Users\Administrator\Desktop\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\ref\Dtos.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\bin\Debug\net7.0\Dtos.deps.json
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\bin\Debug\net7.0\Dtos.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\bin\Debug\net7.0\Dtos.pdb
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\bin\Debug\net7.0\Domian.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\bin\Debug\net7.0\Domian.pdb
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.csproj.AssemblyReference.cache
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfoInputs.cache
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfo.cs
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.csproj.CopyComplete
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\refint\Dtos.dll
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\Dtos.pdb
+C:\Users\Abdel\Desktop\New folder (2)\Ecommerce-WebSite-Use-API-And-MVC-And-Angular-FinalProject-ITI--main\Dtos\obj\Debug\net7.0\ref\Dtos.dll

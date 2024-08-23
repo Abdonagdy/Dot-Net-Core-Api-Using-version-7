@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Administrator\Desktop\New folder (2)</_PublishTargetUrl>
+    <History>True|2024-03-25T21:25:22.0341248Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Dbconnectionstring">
+      <Value>Server=3.225.245.203,1433%3bDatabase=mizedb123456%3bUser Id=SA%3bPassword=Mize#1234!%3bMultipleActiveResultSets=True%3bencrypt=false</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

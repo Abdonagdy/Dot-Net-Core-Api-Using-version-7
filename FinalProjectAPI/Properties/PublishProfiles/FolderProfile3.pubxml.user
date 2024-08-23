@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Abdel\Desktop\apiiiiiii</_PublishTargetUrl>
+    <History>True|2023-12-18T05:27:32.6900436Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Dbconnectionstring">
+      <Value>Server=3.79.145.75,1433%3bDatabase=testdb%3bUser Id=SA%3bPassword=YourPassword123!%3bMultipleActiveResultSets=True%3bencrypt=false</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
